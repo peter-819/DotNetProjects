@@ -1,0 +1,10 @@
+D:\DotNetProjects\calculator\WInFormCalc\bin\Debug\WInFormCalc.exe.config
+D:\DotNetProjects\calculator\WInFormCalc\bin\Debug\WInFormCalc.exe
+D:\DotNetProjects\calculator\WInFormCalc\bin\Debug\WInFormCalc.pdb
+D:\DotNetProjects\calculator\WInFormCalc\obj\Debug\WInFormCalc.csprojAssemblyReference.cache
+D:\DotNetProjects\calculator\WInFormCalc\obj\Debug\WInFormCalc.Form1.resources
+D:\DotNetProjects\calculator\WInFormCalc\obj\Debug\WInFormCalc.Properties.Resources.resources
+D:\DotNetProjects\calculator\WInFormCalc\obj\Debug\WInFormCalc.csproj.GenerateResource.cache
+D:\DotNetProjects\calculator\WInFormCalc\obj\Debug\WInFormCalc.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\calculator\WInFormCalc\obj\Debug\WInFormCalc.exe
+D:\DotNetProjects\calculator\WInFormCalc\obj\Debug\WInFormCalc.pdb

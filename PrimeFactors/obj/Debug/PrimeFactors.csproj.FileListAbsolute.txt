@@ -1,0 +1,6 @@
+D:\DotNetProjects\calculator\PrimeFactors\bin\Debug\PrimeFactors.exe.config
+D:\DotNetProjects\calculator\PrimeFactors\bin\Debug\PrimeFactors.exe
+D:\DotNetProjects\calculator\PrimeFactors\bin\Debug\PrimeFactors.pdb
+D:\DotNetProjects\calculator\PrimeFactors\obj\Debug\PrimeFactors.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\calculator\PrimeFactors\obj\Debug\PrimeFactors.exe
+D:\DotNetProjects\calculator\PrimeFactors\obj\Debug\PrimeFactors.pdb
