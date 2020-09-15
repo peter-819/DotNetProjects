@@ -1,0 +1,11 @@
+D:\DotNet\DotNetProjects\AlarmClock\bin\Debug\netcoreapp2.1\AlarmClock.deps.json
+D:\DotNet\DotNetProjects\AlarmClock\bin\Debug\netcoreapp2.1\AlarmClock.runtimeconfig.json
+D:\DotNet\DotNetProjects\AlarmClock\bin\Debug\netcoreapp2.1\AlarmClock.runtimeconfig.dev.json
+D:\DotNet\DotNetProjects\AlarmClock\bin\Debug\netcoreapp2.1\AlarmClock.dll
+D:\DotNet\DotNetProjects\AlarmClock\bin\Debug\netcoreapp2.1\AlarmClock.pdb
+D:\DotNet\DotNetProjects\AlarmClock\obj\Debug\netcoreapp2.1\AlarmClock.csprojAssemblyReference.cache
+D:\DotNet\DotNetProjects\AlarmClock\obj\Debug\netcoreapp2.1\AlarmClock.csproj.CoreCompileInputs.cache
+D:\DotNet\DotNetProjects\AlarmClock\obj\Debug\netcoreapp2.1\AlarmClock.AssemblyInfoInputs.cache
+D:\DotNet\DotNetProjects\AlarmClock\obj\Debug\netcoreapp2.1\AlarmClock.AssemblyInfo.cs
+D:\DotNet\DotNetProjects\AlarmClock\obj\Debug\netcoreapp2.1\AlarmClock.dll
+D:\DotNet\DotNetProjects\AlarmClock\obj\Debug\netcoreapp2.1\AlarmClock.pdb

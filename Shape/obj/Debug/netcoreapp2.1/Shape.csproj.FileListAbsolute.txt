@@ -1,0 +1,11 @@
+D:\DotNet\DotNetProjects\Shape\bin\Debug\netcoreapp2.1\Shape.deps.json
+D:\DotNet\DotNetProjects\Shape\bin\Debug\netcoreapp2.1\Shape.runtimeconfig.json
+D:\DotNet\DotNetProjects\Shape\bin\Debug\netcoreapp2.1\Shape.runtimeconfig.dev.json
+D:\DotNet\DotNetProjects\Shape\bin\Debug\netcoreapp2.1\Shape.dll
+D:\DotNet\DotNetProjects\Shape\bin\Debug\netcoreapp2.1\Shape.pdb
+D:\DotNet\DotNetProjects\Shape\obj\Debug\netcoreapp2.1\Shape.csprojAssemblyReference.cache
+D:\DotNet\DotNetProjects\Shape\obj\Debug\netcoreapp2.1\Shape.csproj.CoreCompileInputs.cache
+D:\DotNet\DotNetProjects\Shape\obj\Debug\netcoreapp2.1\Shape.AssemblyInfoInputs.cache
+D:\DotNet\DotNetProjects\Shape\obj\Debug\netcoreapp2.1\Shape.AssemblyInfo.cs
+D:\DotNet\DotNetProjects\Shape\obj\Debug\netcoreapp2.1\Shape.dll
+D:\DotNet\DotNetProjects\Shape\obj\Debug\netcoreapp2.1\Shape.pdb

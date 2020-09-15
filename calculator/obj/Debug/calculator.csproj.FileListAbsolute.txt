@@ -5,3 +5,10 @@ D:\DotNetProjects\calculator\calculator\obj\Debug\calculator.csprojAssemblyRefer
 D:\DotNetProjects\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
 D:\DotNetProjects\calculator\calculator\obj\Debug\calculator.exe
 D:\DotNetProjects\calculator\calculator\obj\Debug\calculator.pdb
+D:\DotNet\DotNetProjects\calculator\bin\Debug\calculator.exe.config
+D:\DotNet\DotNetProjects\calculator\bin\Debug\calculator.exe
+D:\DotNet\DotNetProjects\calculator\bin\Debug\calculator.pdb
+D:\DotNet\DotNetProjects\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\DotNet\DotNetProjects\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\DotNet\DotNetProjects\calculator\obj\Debug\calculator.exe
+D:\DotNet\DotNetProjects\calculator\obj\Debug\calculator.pdb

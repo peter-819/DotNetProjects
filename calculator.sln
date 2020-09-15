@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1169
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator\calculator.csproj", "{ED58DD0F-B4CE-4594-9029-C8242644C2B6}"
 EndProject
@@ -12,6 +12,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMinAverage", "MaxMinAverage\MaxMinAverage.csproj", "{3A160E17-213F-45CD-A0AB-BC47694E53DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix", "matrix\matrix.csproj", "{6741BE5B-B359-433A-8FA5-4DE6FD4FC11C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shape", "Shape\Shape.csproj", "{AEDE5194-294D-450F-87AC-57354CDE773F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericNodeList", "GenericNodeList\GenericNodeList.csproj", "{9E8E1A06-1448-47A4-9564-82B061D30429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmClock", "AlarmClock\AlarmClock.csproj", "{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{6741BE5B-B359-433A-8FA5-4DE6FD4FC11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6741BE5B-B359-433A-8FA5-4DE6FD4FC11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6741BE5B-B359-433A-8FA5-4DE6FD4FC11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDE5194-294D-450F-87AC-57354CDE773F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDE5194-294D-450F-87AC-57354CDE773F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDE5194-294D-450F-87AC-57354CDE773F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDE5194-294D-450F-87AC-57354CDE773F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8E1A06-1448-47A4-9564-82B061D30429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8E1A06-1448-47A4-9564-82B061D30429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8E1A06-1448-47A4-9564-82B061D30429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8E1A06-1448-47A4-9564-82B061D30429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

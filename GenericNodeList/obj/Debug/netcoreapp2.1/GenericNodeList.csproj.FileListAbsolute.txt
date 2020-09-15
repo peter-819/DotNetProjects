@@ -1,0 +1,11 @@
+D:\DotNet\DotNetProjects\GenericNodeList\bin\Debug\netcoreapp2.1\GenericNodeList.deps.json
+D:\DotNet\DotNetProjects\GenericNodeList\bin\Debug\netcoreapp2.1\GenericNodeList.runtimeconfig.json
+D:\DotNet\DotNetProjects\GenericNodeList\bin\Debug\netcoreapp2.1\GenericNodeList.runtimeconfig.dev.json
+D:\DotNet\DotNetProjects\GenericNodeList\bin\Debug\netcoreapp2.1\GenericNodeList.dll
+D:\DotNet\DotNetProjects\GenericNodeList\bin\Debug\netcoreapp2.1\GenericNodeList.pdb
+D:\DotNet\DotNetProjects\GenericNodeList\obj\Debug\netcoreapp2.1\GenericNodeList.csprojAssemblyReference.cache
+D:\DotNet\DotNetProjects\GenericNodeList\obj\Debug\netcoreapp2.1\GenericNodeList.csproj.CoreCompileInputs.cache
+D:\DotNet\DotNetProjects\GenericNodeList\obj\Debug\netcoreapp2.1\GenericNodeList.AssemblyInfoInputs.cache
+D:\DotNet\DotNetProjects\GenericNodeList\obj\Debug\netcoreapp2.1\GenericNodeList.AssemblyInfo.cs
+D:\DotNet\DotNetProjects\GenericNodeList\obj\Debug\netcoreapp2.1\GenericNodeList.dll
+D:\DotNet\DotNetProjects\GenericNodeList\obj\Debug\netcoreapp2.1\GenericNodeList.pdb
