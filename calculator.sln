@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shape", "Shape\Shape.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericNodeList", "GenericNodeList\GenericNodeList.csproj", "{9E8E1A06-1448-47A4-9564-82B061D30429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmClock", "AlarmClock\AlarmClock.csproj", "{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlarmClock", "AlarmClock\AlarmClock.csproj", "{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderProject", "Order\OrderProject.csproj", "{B1D79E77-F8BD-4277-A93B-26182160325C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderUnitTest", "OrderUnitTest\OrderUnitTest.csproj", "{C7793B8B-F1B2-4A48-A15C-0F772A3AD889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FB8B584-5BE3-4199-9BF9-AFB80085B3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D79E77-F8BD-4277-A93B-26182160325C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D79E77-F8BD-4277-A93B-26182160325C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D79E77-F8BD-4277-A93B-26182160325C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D79E77-F8BD-4277-A93B-26182160325C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7793B8B-F1B2-4A48-A15C-0F772A3AD889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7793B8B-F1B2-4A48-A15C-0F772A3AD889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7793B8B-F1B2-4A48-A15C-0F772A3AD889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7793B8B-F1B2-4A48-A15C-0F772A3AD889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

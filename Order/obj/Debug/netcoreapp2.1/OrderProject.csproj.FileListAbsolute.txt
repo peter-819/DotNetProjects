@@ -1,0 +1,11 @@
+D:\DotNet\DotNetProjects\Order\bin\Debug\netcoreapp2.1\OrderProject.deps.json
+D:\DotNet\DotNetProjects\Order\bin\Debug\netcoreapp2.1\OrderProject.runtimeconfig.json
+D:\DotNet\DotNetProjects\Order\bin\Debug\netcoreapp2.1\OrderProject.runtimeconfig.dev.json
+D:\DotNet\DotNetProjects\Order\bin\Debug\netcoreapp2.1\OrderProject.dll
+D:\DotNet\DotNetProjects\Order\bin\Debug\netcoreapp2.1\OrderProject.pdb
+D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.csprojAssemblyReference.cache
+D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.csproj.CoreCompileInputs.cache
+D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.AssemblyInfoInputs.cache
+D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.AssemblyInfo.cs
+D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.dll
+D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.pdb
