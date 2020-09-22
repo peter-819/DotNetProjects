@@ -75,7 +75,7 @@ namespace OrderServiceUnitTest
             };
             CollectionAssert.Equals(service.OrderList, correct);
 
-            service.Sort();
+            service.Sort((a, b) => string.Compare(a.CustomerName, b.CustomerName));
             correct = new List<Order>
             {
                 order1,order3,order2
