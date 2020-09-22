@@ -12,7 +12,7 @@ namespace OrderServiceUnitTest
         {
             ID = 1000001,
             CustomerName = "Jerome",
-            OrderDetails =
+            OrderDetails = new List<OrderDetail>()
                 {
                     new OrderDetail("phone",1000),
                     new OrderDetail("PC",8000)
@@ -22,7 +22,7 @@ namespace OrderServiceUnitTest
         {
             ID = 1000002,
             CustomerName = "Peter",
-            OrderDetails =
+            OrderDetails = new List<OrderDetail>()
                 {
                     new OrderDetail("phone",2000),
                     new OrderDetail("PC",10000)
@@ -32,16 +32,18 @@ namespace OrderServiceUnitTest
         {
             ID = 1000003,
             CustomerName = "Kold",
-            OrderDetails =
+            OrderDetails = new List<OrderDetail>()
                 {
                     new OrderDetail("PC",20000)
                 }
         };
-        private OrderService service = OrderService.Instance();
+        private OrderService service;
 
         [TestInitialize]
         public void InitializeOrderList()
-        {
+        { 
+            service = OrderService.Instance();
+            service.OrderList.Clear();
             service.AddOrder(order1);
             service.AddOrder(order2);
         }
@@ -73,7 +75,7 @@ namespace OrderServiceUnitTest
             };
             CollectionAssert.Equals(service.OrderList, correct);
 
-            service.Sort((a, b) => string.Compare(a.CustomerName, b.CustomerName));
+            service.Sort();
             correct = new List<Order>
             {
                 order1,order3,order2

@@ -9,3 +9,4 @@ D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.AssemblyInfo
 D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.AssemblyInfo.cs
 D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.dll
 D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.pdb
+D:\DotNet\DotNetProjects\Order\obj\Debug\netcoreapp2.1\OrderProject.genruntimeconfig.cache

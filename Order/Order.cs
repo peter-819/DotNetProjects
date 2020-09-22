@@ -6,8 +6,9 @@ using System.Collections;
 namespace OrderProject
 {
     [Serializable]
-    public class Order : IComparer
+    public class Order : IComparable
     {
+        public Order(){}
         public UInt32 ID { get; set; }
         public string CustomerName { get; set; }
         public List<OrderDetail> OrderDetails;
@@ -36,9 +37,9 @@ namespace OrderProject
                 $"Customer Name = {CustomerName}" +
                 OrderDetails.ToString();
         }
-        int IComparer.Compare(object x, object y)
+        public int CompareTo(object x)
         {
-            return ((Order)x).ID < ((Order)y).ID ? 1 : 0;
+            return ID < ((Order)x).ID ? 1 : 0;
         }
     }
 }

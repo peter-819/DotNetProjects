@@ -59,7 +59,7 @@ namespace OrderProject
         }
         public void Sort(Func<Order,Order,int> func = null)
         {
-            if (func != null)
+            if (func == null)
             {
                 OrderList.Sort();
             }

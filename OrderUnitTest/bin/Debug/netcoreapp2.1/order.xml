@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderDetails>
+      <OrderDetail>
+        <ItemName>phone</ItemName>
+        <Value>1000</Value>
+      </OrderDetail>
+      <OrderDetail>
+        <ItemName>PC</ItemName>
+        <Value>8000</Value>
+      </OrderDetail>
+    </OrderDetails>
+    <ID>1000001</ID>
+    <CustomerName>Jerome</CustomerName>
+  </Order>
+  <Order>
+    <OrderDetails>
+      <OrderDetail>
+        <ItemName>phone</ItemName>
+        <Value>2000</Value>
+      </OrderDetail>
+      <OrderDetail>
+        <ItemName>PC</ItemName>
+        <Value>10000</Value>
+      </OrderDetail>
+    </OrderDetails>
+    <ID>1000002</ID>
+    <CustomerName>Peter</CustomerName>
+  </Order>
+</ArrayOfOrder>

@@ -15,3 +15,4 @@ D:\DotNet\DotNetProjects\OrderUnitTest\obj\Debug\netcoreapp2.1\OrderUnitTest.Ass
 D:\DotNet\DotNetProjects\OrderUnitTest\obj\Debug\netcoreapp2.1\OrderUnitTest.csproj.CopyComplete
 D:\DotNet\DotNetProjects\OrderUnitTest\obj\Debug\netcoreapp2.1\OrderUnitTest.dll
 D:\DotNet\DotNetProjects\OrderUnitTest\obj\Debug\netcoreapp2.1\OrderUnitTest.pdb
+D:\DotNet\DotNetProjects\OrderUnitTest\obj\Debug\netcoreapp2.1\OrderUnitTest.genruntimeconfig.cache

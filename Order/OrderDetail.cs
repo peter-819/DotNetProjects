@@ -4,8 +4,10 @@ using System.Text;
 
 namespace OrderProject
 {
+    [Serializable]
     public class OrderDetail
     {
+        public OrderDetail(){}
         public string ItemName { get; set; }
         public UInt32 Value { get; set; }
 
